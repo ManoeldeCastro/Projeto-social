@@ -40,8 +40,8 @@ section#telefone {
 iframe#tela {
     position: relative;
     top: 14px;
-    left: 17.5px;
-    width: 276px;
+    left: 17px;
+    width: 277px;
     height: 599px;
     overflow: hidden;
     border-radius: 40px;
