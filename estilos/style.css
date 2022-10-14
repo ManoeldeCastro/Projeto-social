@@ -45,11 +45,13 @@ iframe#tela {
     height: 599px;
     overflow: hidden;
     border-radius: 40px;
+    box-shadow: 18px 20px 20px 7px rgba(0, 0, 0, 0.501);
 
 }
 section#links {
     display: grid;
     text-align: right;
+    
     
     
 }
