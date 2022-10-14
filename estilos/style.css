@@ -10,6 +10,7 @@ HTML, body {
     height: 100VH;
     width: 100Vw;
     background: black no-repeat;
+    background-size: cover;
 }
 body {
     background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
